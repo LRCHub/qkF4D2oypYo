@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アトリエ",
+  "base_artist": "Masayoshi Yamazaki",
+  "createdAt": "2026-02-19T06:36:39.401545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アトリエ",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/01_アトリエ_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アトリエ",
+      "artist": "Rick Rack",
+      "has_synced": true,
+      "path": "select/02_アトリエ_Rick_Rack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "閉ざされた画室(アトリエ)",
+      "artist": "ALI PROJECT",
+      "has_synced": false,
+      "path": "select/03_閉ざされた画室(アトリエ)_ALI_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アトリエ",
+      "artist": "Anzen Chitai (安全地帯)",
+      "has_synced": true,
+      "path": "select/04_アトリエ_Anzen_Chitai_(安全地帯).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アトリエ",
+      "artist": "tacica",
+      "has_synced": true,
+      "path": "select/05_アトリエ_tacica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アトリエ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_01_アトリエ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アトリエ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_02_アトリエ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アトリエ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_03_アトリエ_山崎_まさよし.txt"
+    }
+  ]
+}
